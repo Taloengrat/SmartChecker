@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SmartChecker</string>
+
+    <string name="Q1">SmartChecker</string>
+    <string name="Q2">SmartChecker</string>
+    <string name="Q3">SmartChecker</string>
+    <string name="Q4">SmartChecker</string>
+    <string name="Q5">SmartChecker</string>
+
+    <string name="A1">SmartChecker</string>
+    <string name="A2">SmartChecker</string>
+    <string name="A3">SmartChecker</string>
+    <string name="A4">SmartChecker</string>
+    <string name="A5">SmartChecker</string>
+
+
+
+</resources>

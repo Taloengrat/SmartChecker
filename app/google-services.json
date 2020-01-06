@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "958741824804",
+    "firebase_url": "https://smartchecker-54b19.firebaseio.com",
+    "project_id": "smartchecker-54b19",
+    "storage_bucket": "smartchecker-54b19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958741824804:android:7c041df60985cdbc421fb1",
+        "android_client_info": {
+          "package_name": "com.example.smartchecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958741824804-ps08vghnsok343gbhglg2nsv0el8rfk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smartchecker",
+            "certificate_hash": "bdbab3f7d61fbdbd80367e3aa1fa0e54b85091f4"
+          }
+        },
+        {
+          "client_id": "958741824804-6a9hu0joqr7pfgffb4gmkk6lrfad401d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN0V5fmFrup88OjacVq1bftCD4L9bvcok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "958741824804-6a9hu0joqr7pfgffb4gmkk6lrfad401d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
